@@ -1,151 +1,48 @@
-# Projeto Integrador - Compreendendo o Negócio 
-## Descrição do Projeto
-O objetivo deste projeto é proporcionar aos estudantes uma experiência inicial na compreensão do 
-negócio por meio da exploração de dados simples e da montagem e preparação dos dados da empresa 
-para a fase seguinte do Projeto Integrador. Além disso, será introduzido o uso de ferramentas de 
-controle de versionamento (GIT) para o acompanhamento do desenvolvimento do projeto, 
-ferramentas de gestão de projetos (por exemplo, Trello) para gerenciamento das fases e tarefas, 
-ferramentas para manipulação de bases de dados (Pandas e NumPy) e ferramentas de apresentação 
-(PowerPoint, Canvas, etc.)
+# InclusivaMente
 
-# Instruções do Projeto:
-Quantidade máxima de pessoas por grupo: 6.
+**Dados que conectam, vidas que transformam.**
 
-##Etapa I - Levantamento Inicial da empresa (semana 9)
-Escolha da Empresa: 
-Nesta fase inicial, os alunos terão a oportunidade de escolher uma empresa real ou criar uma fictícia 
-para aprofundar seus estudos. A empresa selecionada deve apresentar uma estrutura organizacional 
-diversificada, com diferentes departamentos e um número considerável de colaboradores. Além 
-disso, é fundamental que a empresa possua um modelo de negócio claro, seja ele baseado na venda 
-de produtos físicos em lojas virtuais ou físicas, ou na prestação de serviços. Essa variedade permitirá 
-aos alunos explorar diferentes nuances do mundo corporativo e aplicar os conhecimentos adquiridos 
-de forma prática.
+## Descrição
 
-## Documentação no Github:
-Toda a documentação oficial da empresa criada será centralizada e gerenciada na plataforma GitHub, 
-garantindo um controle eficiente de versionamento. Cada grupo deverá criar um repositório único, 
-onde o README inicialmente apresentará um resumo do projeto e uma pasta inicial. 
-Adicionalmente, os grupos serão orientados a organizar a documentação de forma clara e acessível, 
-utilizando a estrutura recomendada para incluir informações relevantes sobre o projeto, processos e 
-procedimentos
+A InclusivaMente é uma iniciativa que visa democratizar o acesso ao suporte para crianças neuroatípicas e suas famílias. Utilizando tecnologia de ponta, como inteligência artificial e ciência de dados, buscamos oferecer soluções personalizadas e eficazes que atendam às necessidades individuais de cada criança.
 
-## Entregas Interdisciplinares:
-Para cada um dos componentes curriculares deste semestre do curso, nesta fase específica do 
-projeto, será objeto de análise os seguintes elementos (que devem estar inseridos no processo e no 
-documento entregue no final da presente fase):
+## Problema
 
-# Negócios e Organizações - Profa. Dra. Carla Lechugo
-Apresentação da empresa (História, Logo, Segmento de Mercado, Porte da empresa, 
-Localização, principais produtos, clientes, concorrentes e organograma)
-* Posicionamento da Empresa (Missão, Visão, Valores e Diferenciais Competitivos)
-* Matriz SWOT (Pontos fortes + oportunidades externas = estratégias de crescimento
-Pontos fortes + ameaças externas = estratégias de enfrentamento
-Pontos fracos + oportunidades = estratégias de melhoria
-Pontos fracos + ameaças = estratégia de defesa
+Atualmente, milhares de famílias enfrentam dificuldades para acessar informações e terapias específicas para crianças neuroatípicas. A escassez de profissionais qualificados, os altos custos e as longas filas de espera impedem que muitas crianças recebam o suporte adequado. O principal desafio é a falta de opções acessíveis e individualizadas, o que limita o desenvolvimento pleno das crianças.
 
-# Algoritmos e Estrutura de Dados I - Prof. Dr. Piva Junior
-Para uma compreensão mais aprofundada dos processos organizacionais, o grupo deverá 
-elaborar as descrições algorítmicas detalhadas, utilizando fluxogramas como recurso visual. 
-Essa prática permitirá identificar oportunidades de otimização e sugerir melhorias para 
-aumentar a eficiência e a produtividade.
+## Oportunidade de Mercado
 
-# Produção de Textos e Metodologia de Pesquisa Científica e Tecnológica - Profa. Dra. Rosana Nunes
-Elaborar um texto claro e objetivo descrevendo a empresa selecionada ou fictícia, suas 
-características, objetivos e relevância para o estudo.
+O número de diagnósticos de neurodiversidades, como o Transtorno do Espectro Autista (TEA), tem aumentado no Brasil, onde cerca de 2 milhões de pessoas estão dentro do espectro. Isso gera uma alta demanda por métodos eficazes de suporte, mas o acesso a recursos ainda é limitado para muitas crianças. O mercado de inteligência artificial aplicada à saúde no Brasil está em rápida expansão, com uma expectativa de crescimento de 41,5% até 2030, criando oportunidades para desenvolver soluções de grande impacto.
 
-# Matemática aplicada a Ciência de Dados - Prof. Dr. Douglas Mação
-1. Usar os conceitos de conjuntos para descrever as características e segmentos da empresa 
-selecionada ou fictícia, identificando conjuntos de clientes, produtos, serviços, etc.
-2. Trabalhar conceitos de conjuntos.
+## Modelo de Negócio
 
-# Comportamento Organizacional para Ambientes Disruptivos Profa. Dra. Carla Lechugo
-História da Empresa, Seus "Heróis"/fundadores, Características comportamentais dos 
-sócios e valores.
-* Lema da Empresa: o que se repete dentro da Organização? Mascote, 
-Conceito/Identidade da Marca
-* Missão, Visão e Valores e Código de Ética
-* Definição dos PILARES da Cultura da Empresa. Quais são os três principais 
-COMPORTAMENTOS que a empresa deseja desenvolver nos seus funcionários?
-* Definição dos Objetivos (Quantitativo e Qualitativo) da Cultura da Empresa.
+O modelo de negócio da InclusivaMente é focado em instituições e operadoras de saúde, como convênios, planos de saúde, consultórios especializados e ONGs. Utilizamos plataformas online para facilitar a venda direta de nossos produtos e serviços, e nossas receitas provêm de licenciamento de software, consultorias especializadas e parcerias públicas.
 
-# Projeto Integrador I - Prof. Ms. Ricardo Leme
-* Entregar todo o projeto dentro da plataforma Github conforme instruções em aula.
-* Planejamento da elaboração do projeto dentro da ferramenta Trello.
-* Mapeamento dos Riscos do Projeto
-* Elaboração do Project Model Canvas
+## Diferencial
 
-# Etapa 2: Imersão da empresa - (Semana 17)
-## Entregas Interdisciplinares
-Para cada um dos componentes curriculares deste semestre do curso, nesta fase específica do 
-projeto, será objeto de análise os seguintes elementos (que devem estar inseridos no processo e no 
-documento entregue no final da presenta fase):
-Negócios e Organizações – Profa. Dra. Carla Lechugo
-* Objetivos SMART (Específico, Mensurável, Alcançável, Realísticos, Tempo Previsto)
-* Balanced ScoreCard - Alinhamento das Perspectivas (Financeira, Processos Internos, 
-Aprendizado e Crescimento, Cliente)
-* Plano de Ação - 5W e 2H, onde:
-*  What – quais são os objetivos a serem alcançados?
-*	Why – Porque são importantes?
-*	Who – Quem fará ou qual departamento será responsável?
-*      When – Quando será feito (cronograma)
-*      Where - Onde será feito?
-*	How – Como será feito? Quais estratégias utilizar para atingir os objetivos?
-*	 How Much – Quanto custa esta ação?
-* Ferramentas de Controle
-* Considerações Finais / Lições Aprendidas
-* Referências Bibliográficas
+Nosso principal diferencial está na combinação de inteligência artificial, ciência de dados e expertise em neurodiversidade. Oferecemos soluções acessíveis e personalizadas, permitindo que famílias e profissionais tenham acesso a suporte eficaz, democratizando o cuidado e promovendo o desenvolvimento de cada criança de forma inclusiva e inovadora.
 
-# Algoritmos e Estrutura de Dados I – Prof. Dr. Piva Junior
-* Aplicar técnicas de decomposição de problemas para identificar os principais pontos a serem 
-abordados na apresentação final, como a proposta de valor da empresa e seu público-alvo.
+## Funcionalidades
 
-# Produção de Textos e Metodologia da Pesquisa Científica e Tecnológica – Profa. 
-Dra. Rosana Nunes
-* Preparar um documento estruturado, com introdução que contextualize a empresa, 
-desenvolvimento que destaque sua proposta de valor e conclusão que reforce os principais pontos apresentados.
+- Coleta de informações através de questionários.
+- Análise de dados para recomendar suporte personalizado.
+- Conexão com profissionais de saúde baseados em localização e tipo de atendimento.
 
-# Matemática aplicada a Ciência de Dados – Prof. Dr. Douglas Mação
-* Trabalhar as leis algébricas, para que a matemática seja aplicada como ferramenta.
+## Como Contribuir
 
- # Comportamento Organizacional em ambiente disruptivo – Profa. Dra. Carla
-* Estratégias de Fortalecimento da Cultura: Definição do Lay Out, Recepção, Rituais, Símbolos, 
-Políticas de Integração, Estilo de Liderança, Política de Recompensa, Estratégias de 
-Comunicação e Estilo de Gestão)
-* Ferramenta de Controle.
+Contribuições são bem-vindas! Para contribuir com o projeto, siga os passos abaixo:
 
-# Projeto Integrador I – Prof. Ms. Ricardo Leme
-* Entregar todo o projeto dentro da plataforma Github conforme instruções em aula.
-* Levantamento dos dados (series e/ou dataframes) da organização
-* Tratamento e manipulação dos dados obtidos utilizando a biblioteca Pandas. Essa 
-manipulação deverá englobar:
-*	 Seleção e Filtragem: Permitir selecionar linhas e colunas específicas com base em 
-critérios.
-*	 Agrupamento: Agrupar dados com base em uma ou mais colunas para realizar 
-cálculos e sumarizações.
-*	 Junção: Combinar diferentes DataFrames com base em colunas comuns.
-*	 Transformação: Aplicar funções a dados, como renomear colunas, converter tipos de 
-dados, preencher valores ausentes e muito mais.
+1. Faça um fork deste repositório.
+2. Crie uma nova branch (`git checkout -b feature/nova-funcionalidade`).
+3. Faça suas alterações e commit (`git commit -m 'Adiciona nova funcionalidade'`).
+4. Envie suas alterações (`git push origin feature/nova-funcionalidade`).
+5. Abra um Pull Request.
 
-# Etapa 3 - Desvendando as empresas: Apresentação dos Projetos Integradores de Ciência de dados (Semana 19)
-Nesta fase final, os alunos apresentarão o projeto final, destacando os levantamentos, insights e 
-conclusões obtidos ao longo do processo. Este projeto final comporá o portfólio pessoal de cada um 
-dos estudantes, devendo obrigatoriamente ser mantido no GitHub ou também em outra plataforma de 
-gestão de portfólios.
-1. Preparação da Apresentação: 
-Os alunos organizarão os insights e resultados em uma apresentação clara e coerente, destacando os 
-principais pontos do projeto. Sugestão de utilização do software PowerPoint ou Canvas.
-2. Apresentação aos Professores (Stakeholders): 
-Utilizando a apresentação desenvolvida, os alunos apresentarão o projeto final aos stakeholders, 
-explicando as conclusões tiradas dos dados e respondendo a perguntas.
-3. Avaliação:
-A avaliação dos projetos levará em consideração a qualidade da apresentação, a profundidade da 
-análise, a relevância dos insights e a capacidade de comunicação dos alunos. A nota final do Projeto 
-Integrador corresponderá a 20% na média final em todas as disciplinas envolvidas no semestre.
+## Licença
 
-# Conclusão: 
-Este projeto proporcionará aos alunos uma compreensão inicial do negócio por meio da exploração 
-de dados simples e da apresentação desses dados utilizando ferramentas de apresentação e 
-exportação de dados. Além disso, o uso de ferramentas como Github, Canvas, Trello e Pandas 
-proporcionará uma experiência prática na gestão de projetos e na simulação de processos 
-empresariais, preparando os alunos para desafios futuros no campo da ciência de dados para 
-negócios.
+Este projeto é licenciado sob a [MIT License](LICENSE).
+
+## Contato
+
+Para mais informações, entre em contato através do e-mail: [CDNProjetoIntegrador06@outlook.com](mailto:CDNProjetoIntegrador06@outlook.com).
+
