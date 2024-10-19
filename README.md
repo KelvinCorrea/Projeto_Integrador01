@@ -28,16 +28,6 @@ Nosso principal diferencial está na combinação de inteligência artificial, c
 - Análise de dados para recomendar suporte personalizado.
 - Conexão com profissionais de saúde baseados em localização e tipo de atendimento.
 
-## Como Contribuir
-
-Contribuições são bem-vindas! Para contribuir com o projeto, siga os passos abaixo:
-
-1. Faça um fork deste repositório.
-2. Crie uma nova branch (`git checkout -b feature/nova-funcionalidade`).
-3. Faça suas alterações e commit (`git commit -m 'Adiciona nova funcionalidade'`).
-4. Envie suas alterações (`git push origin feature/nova-funcionalidade`).
-5. Abra um Pull Request.
-
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](LICENSE).
