@@ -27,6 +27,7 @@ Nosso principal diferencial está na combinação de inteligência artificial, c
 - Coleta de informações através de questionários.
 - Análise de dados para recomendar suporte personalizado.
 - Conexão com profissionais de saúde baseados em localização e tipo de atendimento.
+- Comunidade de apoio e criação de conteúdo
 
 ## Licença
 
